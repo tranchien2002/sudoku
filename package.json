@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.1.1",
+    "arweave": "^1.4.0",
+    "bootstrap": "^4.5.0",
     "npm": "^6.1.0",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
